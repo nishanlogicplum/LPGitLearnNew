@@ -3,7 +3,7 @@
 
 # Answering PM's and Developers Queries
 2. Explain what is the folder Account Comparison Process All about? Give me the purpose and flow of each modules inside that folder. Be as descriptive as possible.
-3. Inside ScoutCompetitiveScore.py, is the final practice score scaled? If yes, what type of scaling is done?
+3. Inside ScoutCompedatitiveScore.py, is the final practice score scaled? If yes, what type of scaling is done?
 4. Give me an idea of how cannibalization score is calculated in ScoutCannibalizationScore.py? Just make it simpler and easy to understand.
 
 # Documentation Writing PDF
