@@ -1,0 +1,18 @@
+# Just Structure of entire Project
+1. Show me the structure of Site Hawk
+
+# Answering PM's and Developers Queries
+2. Explain what is the folder Account Comparison Process All about? Give me the purpose and flow of each modules inside that folder. Be as descriptive as possible.
+3. Inside ScoutCompetitiveScore.py, is the final practice score scaled? If yes, what type of scaling is done?
+4. Give me an idea of how cannibalization score is calculated in ScoutCannibalizationScore.py? Just make it simpler and easy to understand.
+
+# Documentation Writing PDF
+5. Prepare me a good descriptive non-technical business documentation to share with the client for all the modules inside "Exploratory Process" folder which should be in business terms and easily understandable to a non-technical person. Save the documentation as pdf file inside a new folder named Documentations with an apt name.
+
+
+# Code Manipulation
+6. Add docstrings and proper relevant line comments to the ScoutCombinedExp.py, ScoutCautionScoreExp.py modules using PEP257 Standards and save it.
+
+
+
+Link to Setup Walk-through : https://www.notion.so/LP-Agent-Docker-f2d94d3ddedf4dbcacc97d38822ef8e9?pvs=4
